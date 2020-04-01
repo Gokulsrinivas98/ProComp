@@ -1,5 +1,5 @@
 # ProComp
-#### ** HackHarvard'19 **
+#### HackHarvard'19 
 ## Inspiration
 As students who enjoy building hardware projects, we've always felt that finding the components required for a project online is quite cumbersome. Having to individually look up each component tends to become tedious so we decided to automate it.
 
